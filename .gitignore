@@ -1,0 +1,29 @@
+# Unreal Engine Folders to Ignore
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+FileOpenOrder/
+
+# User-specific files
+.vs/
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Things that give annie a headache
+*.uasset
+*.ubulk
+*.udd
+*.uexp
+*.fbx
+
