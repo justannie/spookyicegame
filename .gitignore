@@ -21,7 +21,6 @@ FileOpenOrder/
 *.obj
 
 # Things that give annie a headache
-*.uasset
 *.ubulk
 *.udd
 *.uexp
